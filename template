@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
-<body>
+  <head>
+  	<!-- files 
+  		Relative > src="../images/kitten.jpg"
+  		Absolute > src="/images/background.jpg"
+  		Full Qualified(aka Hotlinking) > src="http://placekitten.com"
+	-->
+	<link rel="stylesheet" href="ccs/sytle.css">
+  </head>	
+  <body>
 
 
-</body>
+  </body>
 </html>
